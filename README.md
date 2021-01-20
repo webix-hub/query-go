@@ -1,4 +1,4 @@
-Webix Query - backend demo
+Go Backend for Webix Query
 =======
 
 
